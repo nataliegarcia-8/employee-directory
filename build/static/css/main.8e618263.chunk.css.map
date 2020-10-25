@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css","index.css"],"names":[],"mappings":"AAAA,SACE,eAAgB,CAChB,oBACF,CCHA,WACI,wBACJ","file":"main.8e618263.chunk.css","sourcesContent":[".wrapper {\n  min-height: 100%;\n  padding-bottom: 100px;\n}\n",".jumbotron {\n    background-color: darkblue;\n}\n"]}
