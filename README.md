@@ -4,7 +4,6 @@
 * [Description](#description)
 * [Usage](#usage)
 * [Links](#links)
-* [Screenshots](#screenshots)
 * [Questions](#questions)
 
 ## Description
@@ -17,12 +16,7 @@ This application can be used by any company to keep a directory of their employe
 ## Links
 Github Repo: https://github.com/nataliegarcia-8/employee-directory
 
-Deployed Site: 
-
-
-## Screenshots
-Budget Tracker Website:
-<img src="img/home.png" alt="home screen image">
+Deployed Site: https://nataliegarcia-8.github.io/employee-directory/
 
 
 ## Questions 
