@@ -4,7 +4,7 @@ import moment from "moment";
 function EmployeeTable(props) {
     return (
       <>
-      <div className="row">
+      <div className="row background">
     <div className="col col-lg-2"></div>
     <div className="col col-lg-8">
     <table className="table">

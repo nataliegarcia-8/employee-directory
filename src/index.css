@@ -1,3 +1,8 @@
 .jumbotron {
-    background-color: darkblue;
+    background-color: #25274d;
+    color: whitesmoke;
+}
+
+.background {
+    background-color: #aaabb8;
 }
